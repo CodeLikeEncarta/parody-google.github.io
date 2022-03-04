@@ -40,7 +40,7 @@ h1{
     text-indent: -9999px;
     height: 92px;
     width: 500px;
-    background: url('image/logo.jpg') center center no-repeat;
+    background: url(![logo](https://user-images.githubusercontent.com/100927282/156855764-e3551eff-3e1f-4c66-b589-f8d4f3300e13.jpg)) center center no-repeat;
 }
 
 input[type="text"] {
